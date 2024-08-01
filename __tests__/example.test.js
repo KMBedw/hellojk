@@ -1,7 +1,7 @@
 const assert = require('assert');
 
-describe('Simple Test', () => {
-  it('should return true', () => {
+describe('Test Bouléen', () => {
+  it('doit renvoyer : true', () => {
     assert.strictEqual(true, true);
   });
 });
